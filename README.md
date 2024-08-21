@@ -1,5 +1,7 @@
 # NestJS GraphQL Fastify Template
 
+I am no longer maintaining this Template as I switched to Go and Rust.
+
 ## Description
 
 Full [NodeJS](https://nodejs.org/en/) boilerplate of a [NestJS](https://nestjs.com/) [GraphQL](https://graphql.org/) API
