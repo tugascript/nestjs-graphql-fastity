@@ -1239,13 +1239,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fastify/cors@npm:8.4.1, @fastify/cors@npm:^8.4.1":
+"@fastify/cors@npm:8.4.1":
   version: 8.4.1
   resolution: "@fastify/cors@npm:8.4.1"
   dependencies:
     fastify-plugin: ^4.0.0
     mnemonist: 0.39.5
   checksum: 515583525cb48589be20cc98d2ebbf0ebf767bab39a50d575e51a07a95e6d0170d7965448f7e60155ef69d7381334e143f025b0607368187d362c6d3da01fd07
+  languageName: node
+  linkType: hard
+
+"@fastify/cors@npm:^8.4.1":
+  version: 8.4.2
+  resolution: "@fastify/cors@npm:8.4.2"
+  dependencies:
+    fastify-plugin: ^4.0.0
+    mnemonist: 0.39.5
+  checksum: 346c018f08a2a0651e4d4c4d574902fb7db1f3b271c762c21a14abe12307c73e3c0fb6e107eff5b6f37a0035efa50f45424d04b6a50129eecd3415c686d3c92f
   languageName: node
   linkType: hard
 
