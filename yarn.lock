@@ -3493,21 +3493,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*":
+"@types/node@npm:*, @types/node@npm:^20.0.0":
   version: 20.10.0
   resolution: "@types/node@npm:20.10.0"
   dependencies:
     undici-types: ~5.26.4
   checksum: face395140d6f2f1755b91fdd3b697cf56aeb9e2514529ce88d56e56f261ad65be7269d863520a9406d73c338699ea68b418e8677584de0c1efeed09539b6f97
-  languageName: node
-  linkType: hard
-
-"@types/node@npm:^18.18.13":
-  version: 18.18.13
-  resolution: "@types/node@npm:18.18.13"
-  dependencies:
-    undici-types: ~5.26.4
-  checksum: e36d7a0ea6ce8fb771fd84dc2412935408448c1fed098205d3103be661852fc40d22a987e6c6c926a20719a15266e3071c8d4fd2548a96ad6c3c74eb474b5e63
   languageName: node
   linkType: hard
 
@@ -8752,7 +8743,7 @@ __metadata:
     "@types/graphql-upload": ^15.0.2
     "@types/jest": 29.5.10
     "@types/jsonwebtoken": ^9.0.5
-    "@types/node": ^18.18.13
+    "@types/node": ^20.0.0
     "@types/nodemailer": ^6.4.14
     "@types/sharp": ^0.32.0
     "@types/simple-oauth2": ^5.0.7
